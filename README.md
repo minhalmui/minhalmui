@@ -9,6 +9,7 @@
 
 ### 🌱 What I’m working on:
 - Java practice repo: [JavaPractice](https://github.com/minhalmui/JavaPractice)
+- Html & Css: [WebsitePractice](https://github.com/minhalmui/kitty)
 - Learning Git & GitHub (this profile is proof 😄)
 - Setting up freelance work on Fiverr
 
