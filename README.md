@@ -28,6 +28,6 @@
 
 ### 📫 Connect with me:
 📧 minhalmui@gmail.com  
-🌐 Fiverr: [My Web Dev Gig](#)
+🌐 Fiverr: [Hire me to build your website](https://www.fiverr.com/minhalmui_dev/design-a-modern-and-responsive-static-website-using-html-and-css?utm_campaign=gigs_show&utm_medium=shared&utm_source=copy_link&utm_term=m529grz)
 
 🧠 Always learning, always building.
